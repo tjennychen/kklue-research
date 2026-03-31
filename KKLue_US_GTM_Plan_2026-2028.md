@@ -174,7 +174,7 @@ KKLue doesn't attack competitors by name. But every piece of KKLue content shoul
 
 ### Competitor Benchmarks: DTC Growth Evidence & GTM Learnings
 
-*Research conducted March 2026. Sources: web search + Reddit sentiment (r/jewelry, r/finejewelry, r/femalefashionadvice, r/handbags).*
+*Research conducted March 2026. Sources: web search + Reddit sentiment (r/jewelry, r/finejewelry, r/femalefashionadvice, r/handbags) + Modash analysis of 13 competitor influencer programs (see `Cometitor research/competitor_influencer_synthesis.md`).*
 
 This section covers 11 brands across two categories: (1) direct jewelry comps, (2) adjacent-category DTC brands targeting the same customer. For each, the key questions are: **what actually drove growth?**, **does the $300-500 solid gold jewelry buyer also shop here?**, and **what should KKLue specifically learn?**
 
@@ -416,8 +416,10 @@ Push all of the above to Year 2, after the discovery questions are answered.
 **First English Instagram push:**
 - 10-15 gifted partnerships with English-speaking micro-influencers (30K-150K followers)
 - Profile: style-adjacent, not dedicated fashion accounts — parenting, lifestyle, wellness crossover
-- Target audience: second-generation Asian-American women AND culturally adjacent non-Asian women (similar profile to early Mejuri/Kinn buyer)
-- Content brief: "Just wear it. We want to see how you actually wear it." Not scripted.
+- **Target audience: second-generation Korean-American and Chinese-American women specifically** (not broad AAPI). Modash data across 13 competitors confirms zero brand has an intentional program here. Cultural specificity, not broad AAPI targeting, is where disproportionate engagement lives. Linjer's HK/Cantonese cluster (5% of posts, 15.5% of likes) and Polene's Korean macro (@page.soobin, one post = 25% of their entire program's total likes) both prove this.
+- Set up ShopMy affiliate account before first outreach — gives creators an affiliate link from Day 1 and signals professionalism.
+- Content brief: "Just wear it. We want to see how you actually wear it." Not scripted. Brief for milestone storytelling specifically: tie the piece to a real personal moment ("I ordered this with my daughter's name after she turned 5"). Story-driven posts outperform product announcement posts in every competitor's data.
+- **FTC disclosure from Day 1:** Brief creators to add #ad or #gifted. All 13 competitors have significant disclosure exposure (Ring Concierge: 89.5% undisclosed). 100% proper disclosure differentiates with press and retail buyers.
 
 **Etsy test:**
 - List the Moment necklace on Etsy (single listing, "personalized solid 18K gold letter necklace")
@@ -446,9 +448,19 @@ Push all of the above to Year 2, after the discovery questions are answered.
 - Holiday campaign (November-December): "Personalized jewelry that ships in time." Gift angle hard.
   - Solve the lead time problem for gift season: "Order by December X, ships December X"
   - Bundle option: "Moment necklace + gift box + handwritten note" — gift-ready positioning
+- **Chuseok (September) activation**: No competitor activates this. Korean-American creator content around the Korean harvest festival is zero-competition owned territory. Brief 2-3 Korean-American creators to tie a KKlue piece to a family or cultural moment. Time outreach in August.
+- **Identify named collab candidate by Q3**: From the AAPI creator cohort seeded in Q1-Q2, flag 1-2 creators who posted organically and whose audience responded well. Don't propose yet — just note and continue building the relationship with a second gifting in Q4. Co-designed piece for Year 2 launch.
 - Double down on the 2-3 XHS creators whose content is performing
 - Begin bi-weekly Instagram posting cadence (behind-the-scenes HK studio content works — authenticity is the asset)
 - Launch email list with 10% new customer welcome offer (one-time, to convert fence-sitters)
+
+**Year 1 Korean cultural calendar (full list):**
+- January 13: Korean-American Day — zero competitors activate this. Content angle: "This is what I'm wearing for the occasion."
+- January/February: Lunar New Year — Senreve ran 1 giveaway in Jan 2025. Nobody else. Own it.
+- May: AAPI Heritage Month — Senreve ran 1 giveaway in May 2025. Nobody else. Own it.
+- May: Mother's Day AAPI daughter-to-mom angle — Monica Vinader owns the English market. The AAPI angle is zero-competition.
+- September: Chuseok — zero competitors. Gorjana/GLDN are dead in September.
+Time all outreach 4-6 weeks before the moment.
 
 **Year 1 Budget Total:** $60-85K
 **Year 1 Revenue Target:** $150-200K US GMV (500-700 orders at ~$280-300 AOV)
@@ -470,8 +482,9 @@ The single biggest Year 2 risk: staying a "Chinese diaspora brand" when the prod
 
 **English Instagram scale (ongoing):**
 - Build to 20-30 active creator relationships (micro to mid-tier: 30K-300K)
-- Introduce a creator affiliate program (5-10% commission code) — creates recurring content without budget
+- Introduce a creator affiliate program (5-10% commission code) — creates recurring content without budget. Use ShopMy (set up in Year 1) as the infrastructure.
 - Begin Reels strategy: 30-second "real gold vs. fake gold" educational content performs well in the jewelry category (high save rates, searchable)
+- **Launch named collab with the Korean-American or Chinese-American creator identified in Year 1 Q3.** The co-designed piece is a Moment necklace variation bearing their aesthetic signature or name. This is the @lucywilliams02 model adapted for KKlue: gift in Y1 Q2 → organic post → affiliate → co-designed piece for Y2 launch. The Missoma Lucy Williams collab drove 40% of all Missoma online sales in July 2024. This is the Year 2 anchor activation.
 - Target: reach 15-20K Instagram followers on @kklue_jewelry by end of Year 2
 
 **TikTok entry (Q1 Year 2):**
