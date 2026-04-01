@@ -2,8 +2,7 @@
 node_modules/
 package.json
 package-lock.json
-*.xlsx
-~$*
+~$*.xlsx
 *.py
 *.js
 mejuri-verified/
