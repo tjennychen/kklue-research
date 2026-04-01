@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+package.json
+package-lock.json
+*.xlsx
+~$*
+*.py
+*.js
+mejuri-verified/
+debug-selectors.js
+scrape-*.js
+test-*.js
